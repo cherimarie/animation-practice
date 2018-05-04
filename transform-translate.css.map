@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAqB;EACnB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,IAAI;EACtB,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,QAAQ;EAClB,wBAAI;IACF,MAAM,EAAE,IAAI;IACZ,UAAU,EAAE,IAAI",
+"sources": ["transform-translate.scss"],
+"names": [],
+"file": "transform-translate.css"
+}
